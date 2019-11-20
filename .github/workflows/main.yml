@@ -6,7 +6,7 @@ jobs:
     name: A job to say hello
     steps:
     - name: notification
-      uses: mras2303/giphy@v1.7
+      uses: mras2303/giphy@v1.8
       with:
         botToken: 1036925454:AAE93Hmpt9N1e2TYNDjjsGNu-OcY_aOTUoI
         chatId: asdsad9
